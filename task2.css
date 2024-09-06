@@ -1,0 +1,48 @@
+h1{
+    background-color:blueviolet;
+    text-align: center;
+    width: 300px;
+}
+
+.one{
+    padding-left: 550px;
+    padding-right: 550px;
+}
+
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    background-color: blueviolet;
+   }
+   .two{
+    padding-left: 550px;
+    padding-right: 550px;
+   }
+   img{
+    width: 100px;
+   }
+   .three{
+    text-align: center;
+    display: inline-block;
+   }
+   .four{
+    padding-left: 550px;
+    padding-right: 550px;
+   }
+   .five{
+    padding-left: 550px;
+    padding-right: 550px;
+   }
+   body{
+    border:solid black 10px;
+   }
+   p{
+    text-align: center;
+   }
+   .teamtag{
+    text-align: center;
+   }
+   
+  
